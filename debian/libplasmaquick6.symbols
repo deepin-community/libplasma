@@ -423,27 +423,3 @@ libPlasmaQuick.so.6 libplasmaquick6 #MINVER#
  (c++)"non-virtual thunk to PlasmaQuick::PlasmaWindow::~PlasmaWindow()@Base" 6.1.0
  (c++)"non-virtual thunk to PlasmaQuick::PopupPlasmaWindow::~PopupPlasmaWindow()@Base" 6.1.0
  (c++)"non-virtual thunk to PlasmaQuick::QuickViewSharedEngine::~QuickViewSharedEngine()@Base" 6.1.0
- org_kde_plasma_shell_interface@Base 6.1.0
- org_kde_plasma_surface_interface@Base 6.1.0
- wl_buffer_interface@Base 6.1.0
- wl_callback_interface@Base 6.1.0
- wl_compositor_interface@Base 6.1.0
- wl_data_device_interface@Base 6.1.0
- wl_data_device_manager_interface@Base 6.1.0
- wl_data_offer_interface@Base 6.1.0
- wl_data_source_interface@Base 6.1.0
- wl_display_interface@Base 6.1.0
- wl_keyboard_interface@Base 6.1.0
- wl_output_interface@Base 6.1.0
- wl_pointer_interface@Base 6.1.0
- wl_region_interface@Base 6.1.0
- wl_registry_interface@Base 6.1.0
- wl_seat_interface@Base 6.1.0
- wl_shell_interface@Base 6.1.0
- wl_shell_surface_interface@Base 6.1.0
- wl_shm_interface@Base 6.1.0
- wl_shm_pool_interface@Base 6.1.0
- wl_subcompositor_interface@Base 6.1.0
- wl_subsurface_interface@Base 6.1.0
- wl_surface_interface@Base 6.1.0
- wl_touch_interface@Base 6.1.0
