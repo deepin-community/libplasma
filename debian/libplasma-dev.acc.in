@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="utf-8"?>
+<descriptor>
+
+<version>
+    6.0.0
+</version>
+
+<headers>
+    /usr/include/Plasma/
+    /usr/include/PlasmaQuick/
+</headers>
+
+<libs>
+    /usr/lib/@@DEB_HOST_MULTIARCH@@/libPlasma.so
+    /usr/lib/@@DEB_HOST_MULTIARCH@@/libPlasmaQuick.so
+</libs>
+
+<gcc_options>
+    -fPIC
+    -std=c++11
+</gcc_options>
+
+</descriptor>
